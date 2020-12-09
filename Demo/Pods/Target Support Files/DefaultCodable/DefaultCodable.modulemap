@@ -1,0 +1,6 @@
+framework module DefaultCodable {
+  umbrella header "DefaultCodable-umbrella.h"
+
+  export *
+  module * { export * }
+}

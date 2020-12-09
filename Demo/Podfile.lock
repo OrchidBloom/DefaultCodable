@@ -1,0 +1,16 @@
+PODS:
+  - DefaultCodable (0.1.0)
+
+DEPENDENCIES:
+  - DefaultCodable (from `../`)
+
+EXTERNAL SOURCES:
+  DefaultCodable:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DefaultCodable: d518d8e46d14c23726ff254c0463af5c7da15d92
+
+PODFILE CHECKSUM: f6ccdf5260061b137006cf178629924c74f87f6b
+
+COCOAPODS: 1.10.0

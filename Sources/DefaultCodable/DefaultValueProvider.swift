@@ -37,3 +37,7 @@ public enum One: DefaultValueProvider {
 public enum ZeroDouble: DefaultValueProvider {
     public static let `default`: Double = 0
 }
+
+public enum EmptyUUID: DefaultValueProvider {
+    public static var `default`: UUID { UUID() }
+}
