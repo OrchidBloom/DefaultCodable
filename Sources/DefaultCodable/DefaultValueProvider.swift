@@ -41,3 +41,7 @@ public enum ZeroDouble: DefaultValueProvider {
 public enum EmptyUUID: DefaultValueProvider {
     public static var `default`: UUID { UUID() }
 }
+
+public enum ZeroCGFloat: DefaultValueProvider {
+  public static let `default`: CGFloat = 0
+}
