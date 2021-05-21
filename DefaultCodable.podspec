@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'DefaultCodable'
-  s.version          = '1.2.4'
+  s.version          = '1.2.5'
   s.summary          = 'DefaultCodable can make your data analysis more convenient'
   s.description      = 'DefaultCodable supports various common data types to facilitate your decoding'
 
