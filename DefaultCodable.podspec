@@ -2,8 +2,8 @@
 Pod::Spec.new do |s|
   s.name             = 'DefaultCodable'
   s.version          = '1.2.4'
-  s.summary          = 'A short description of DefaultCodable.'
-  s.description      = 'Codable adds default resolution extension'
+  s.summary          = 'DefaultCodable can make your data analysis more convenient'
+  s.description      = 'DefaultCodable supports various common data types to facilitate your decoding'
 
   s.homepage         = 'https://github.com/orchid-bloom/DefaultCodable'
   s.license      = { :type => "MIT", :file => "LICENSE" }
