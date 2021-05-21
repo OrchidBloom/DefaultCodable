@@ -45,3 +45,7 @@ public enum EmptyUUID: DefaultValueProvider {
 public enum ZeroCGFloat: DefaultValueProvider {
   public static let `default`: CGFloat = 0
 }
+
+public enum EmptyCGSize: DefaultValueProvider {
+  public static var `default`: CGSize { .zero }
+}
